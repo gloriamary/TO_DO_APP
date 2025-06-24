@@ -22,20 +22,6 @@ A simple and clean task management app built using Flutter. This app allows user
 
 ---
 
-## 📁 Project Structure
-
-lib/
-├── main.dart # Entry point of the app
-├── Presentation/
-│ ├── screen_home.dart # Home screen to display and manage tasks
-│ └── screen_splash.dart # Splash screen with loading animation
-
-yaml
-Copy
-Edit
-
----
-
 ## 📦 Getting Started
 
 ### Prerequisites
